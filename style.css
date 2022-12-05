@@ -1,0 +1,20 @@
+body {
+    background-color: #fdd6d4;
+    text-align: center;
+    background-image: url("https://www.todofondos.net/wp-content/uploads/galeria-de-fondo-rosa-pastel-liso.-imagen-hd-1080p-rosa-liso-768x432.jpg")
+
+}
+
+#formulario {
+   
+    display: inline-block;
+    padding: 2% 2%;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background-color: #cca9dd ;
+}
+
+#titulo-principal {
+    font-family:fantasy;
+}
